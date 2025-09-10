@@ -1,4 +1,4 @@
-# Projet Text Mining — Analyse et prédiction des sentiments de tweets
+# Projet Text Mining: Analyse et prédiction des sentiments de tweets
 
 Outil d'analyse permettant de classifier le sentiment des tweets (positif / négatif).  
 
